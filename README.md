@@ -7,4 +7,4 @@ Falling Bed is a project meant to detect and alert if someone is about to fall o
 Make sure to create a virtual environment at the base folder (read more here: https://docs.python.org/3/library/venv.html)
 
 To try the project for yourself, install the following:
-* opencv-python (https://pypi.org/project/opencv-python/)
+* opencv-python (https://pypi.org/project/opencv-python/)  
