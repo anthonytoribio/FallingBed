@@ -13,7 +13,7 @@ def main():
     cv2.startWindowThread()
 
     # Get Bounding box for the bed
-    cap = cv2.VideoCapture('res/IMG_0950.MOV')
+    cap = cv2.VideoCapture('res/IMG_0951.MOV')
     brightest_rectangle = None
     totalFrames = 0
     canvas = None
